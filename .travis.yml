@@ -8,6 +8,7 @@ install:
 - pip install pep8
 - pip install radon
 - pip install coveralls
+- pip install radon
 # command to run tests
 script:
 - py.test --cov . --cov-report term-missing
