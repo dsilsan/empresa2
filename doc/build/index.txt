@@ -1,0 +1,15 @@
+
+Welcome to empresa's documentation!
+***********************************
+
+Contents:
+
+
+Indices and tables
+******************
+
+* *Index*
+
+* *Module Index*
+
+* *Search Page*
