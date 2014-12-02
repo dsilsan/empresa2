@@ -11,3 +11,5 @@ install:
 # command to run tests
 script:
 - py.test --cov . --cov-report term-missing
+after_success:
+- coveralls
