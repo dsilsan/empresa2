@@ -14,7 +14,6 @@ class Departamento():
         :param id_depto: identificador del departamento
         :return:
         """
-        #se crea el departamento
         self.nomDpt = nombre_depto
         self.idDpt = id_depto
         self.lEmpleados = []

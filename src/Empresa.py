@@ -1,5 +1,6 @@
 __author__ = 'David'
 
+
 class Empresa():
     def __init__(self, nombre_empresa, cif, razon_social):
         """
@@ -14,5 +15,6 @@ class Empresa():
         self.cif = cif
         self.rs = razon_social
         self.lDepartamentos = []
+
     def nuevoDept(self, dep):
         self.lDepartamentos.append(dep)

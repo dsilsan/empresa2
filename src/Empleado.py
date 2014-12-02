@@ -5,7 +5,7 @@ class Empleado():
     """
     Clase Empleado
     """
-    def __init__(self, nombre, apellidos, dni, direccion, edad, email, salario):
+    def __init__(self, nombre, apellidos, dni, direccion, edad, email, salario) :
         """
         constructor de la clase empleado
 
