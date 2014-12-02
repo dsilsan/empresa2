@@ -22,3 +22,7 @@ after_success:
 - radon mi tests/
 - pep8 --statistics --count src/
 - pep8 --statistics --count tests/
+notifications:
+  email:
+    recipients:
+      - davidsilva4666@gmail.com
