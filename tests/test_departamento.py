@@ -1,5 +1,5 @@
 from unittest import TestCase
-from src.Departamento import *
+from Departamento import *
 from src.Empleado import *
 from mockito import *
 from src.Empresa import *
