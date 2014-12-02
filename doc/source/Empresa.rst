@@ -7,5 +7,5 @@ Bienvenido a la documentacion de la clase Empresa!
 ==================================================
 - Esta es la documentacion de la clase Empresa
 
-.. autoclass:: Empresa.Empresa
+.. autoclass:: src.Empresa.Empresa
     :members:

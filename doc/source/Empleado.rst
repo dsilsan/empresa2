@@ -8,5 +8,5 @@ Bienvenido a la documentacion de la clase Empleado!
 
 - Esta es la documentacion de la clase Empleado
 
-.. autoclass:: Empleado.Empleado
+.. autoclass:: src.Empleado.Empleado
     :members:

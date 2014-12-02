@@ -10,5 +10,5 @@ Bienvenido a la documentacion de la clase Departamento!
 
 .. toctree::
 
-.. autoclass:: Departamento.Departamento
+.. autoclass:: src.Departamento.Departamento
     :members:

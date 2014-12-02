@@ -10,10 +10,10 @@ Bienvenido a la documentacion del proyecto empresa!
 
 .. toctree::
 
-    Departamento
-    Empresa
-    Empleado
-    Pruebas
+    src.Departamento
+    src.Empresa
+    src.Empleado
+    src.Pruebas
 
 Indice
 ======
