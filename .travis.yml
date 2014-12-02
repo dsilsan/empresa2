@@ -5,7 +5,7 @@ python:
 install:
 - pip install pytest pytest-cov
 - pip install mockito
-- pip nstall pep8
+- pip install pep8
 - pip install radon
 - pip install coveralls
 # command to run tests
