@@ -20,3 +20,5 @@ after_success:
 - radon raw tests/
 - radon mi src/
 - radon mi tests/
+- pep8 --statistics --count src/
+- pep8 --statistics --count tests/
