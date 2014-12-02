@@ -16,7 +16,7 @@ after_success:
 - coveralls
 - radon cc -a src/
 - radon cc -a tests/
-- radon raw -a src/
-- radon raw -a tests/
-- radon mi -a src/
-- radon mi -a tests/
+- radon raw src/
+- radon raw tests/
+- radon mi src/
+- radon mi tests/
