@@ -5,11 +5,11 @@ class Empleado():
     """
     Clase Empleado
     """
-    def __init__(self, nombre, apellidos, dni, direccion, edad, email, salario) :
+    def __init__(self, nomb, apellidos, dni, direccion, edad, email, salario):
         """
         constructor de la clase empleado
 
-        :param nombre: nombre del empleado
+        :param nomb: nombre del empleado
         :param apellidos: apellidos del empleado
         :param dni: dni del empleado
         :param direccion: direccion del empleado
@@ -18,7 +18,7 @@ class Empleado():
         :param salario: salario del empleado
         :return:
         """
-        self.nom = nombre
+        self.nom = nomb
         self.ape = apellidos
         self.dni = dni
         self.dir = direccion

@@ -11,7 +11,7 @@ class TestDepartamento(TestCase):
     Clase TestDepartamento
     """
 
-    emp = Empleado("david", "silva", "49028333s", "calle catania n15", 24, "david@msn.es", 2500)
+    emp = Empleado("david", "silva", "8333s", "catania", 24, "david@msn.es", 2500)
     dep = Departamento("Informatica", 1)
     dep.intro_empleado(emp)
     emp = Empresa("Epd7", "492015764p", "SA")
